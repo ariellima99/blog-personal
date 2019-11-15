@@ -1,0 +1,25 @@
+body{
+    background-color:blue;
+    font-family: 'Oswald', sans-serif;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+
+
+}
+.contenedor{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+
+}
+.imagen{
+    border-radius: 200px 200px;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+
+
+}
